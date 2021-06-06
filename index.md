@@ -1,12 +1,12 @@
 ---
-title: Tes2t for Jekyll Serif Theme
+title: Intersecurity-Komposch
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Intersecurity-Komposch ist ein Sicherheits- und Detektivunternehmen mit Sitz in Kärnten. Wir kümmern uns um alle sicherheitsrelevanten Aufgaben von Bewachung bis zu Überwachung.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Intersecurity-Komposch - A Jekyll Business Theme.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Wir bieten Sicherheitslösungen für Unternehmen und Privat. 
