@@ -1,4 +1,4 @@
-baseurl: '/Intersecurity-Website'
+baseurl: '/Intersecurity-Website/'
 permalink: pretty
 title: 'Intersecurity-Komposch'
 
@@ -8,8 +8,8 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/icon.png"
+  desktop: "images/logo/icon.png"
   desktop_height: "36px"
 
 footer:
@@ -18,7 +18,7 @@ footer:
 seo:
   meta_og_title: "Intersecurity-Komposch"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
+  meta_og_url: "https://intersecurity-komposch.at"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Intersecurity-Komposch ist ein Sicherheits- und Detektivunternehmen mit Sitz in Kärnten. Wir kümmern uns um alle sicherheitsrelevanten Aufgaben von Bewachung bis zu Überwachung."
   meta_twitter_card: ""
