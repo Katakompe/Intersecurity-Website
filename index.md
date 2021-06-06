@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Intersecurity-Komposch - A Jekyll Business Theme.
+# Intersecurity-Komposch
+
 
 Wir bieten Sicherheitslösungen für Unternehmen und Privat. 
