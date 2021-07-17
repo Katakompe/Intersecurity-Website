@@ -1,15 +1,15 @@
 ---
-title: 'About'
+title: 'Über uns'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Wir bieten Expertisee in allen relevanten Sicherheitsfragen. 25 Jahre Erfahrung im Polizeidienst erlauben uns Ihnen höchste Qualität zu bieten. Unsere Mitarbeiter sind bestens ausgebildet, sich um all Ihre Anliegen zu kümmern. 
 
-## Ne verba patulosque numen vix libet
+## Dr. Arnulf Komposch
+
+
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui

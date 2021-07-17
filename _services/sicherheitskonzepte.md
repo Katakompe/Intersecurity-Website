@@ -1,14 +1,13 @@
 ---
-title: "Mergers"
+title: "Sicherheitskonzepte"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Wir beurteilen Ihre Gefahren- und Risikolagen und entwickeln Sicherheitskonzepte die speziell auf Ihre Bedürfnisse abgestimmt sind. 
+
 
 ## Ne verba patulosque numen vix libet
 

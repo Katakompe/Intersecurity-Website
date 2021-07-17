@@ -1,10 +1,14 @@
 ---
-title: "Business Advisory"
+title: "Bewachung"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
 ---
+
+Wir bewachen Objekte, Personen und Veranstaltungen. Benötigen sie seriöse Security für Ihre Veranstaltung? Oder müssen Sie die Sicherheit eines Objektes sicherstellen? Unsere bestens ausgebildeten und ausgestatteten Mitarbeiter kümmern sich darum. 
+
+
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
