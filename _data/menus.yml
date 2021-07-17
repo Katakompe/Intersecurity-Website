@@ -15,3 +15,6 @@ footer:
   - name: "Kontakt"
     url: "/contact/"
     weight: 2
+  - name: "Impressum"
+    url: "/impressum"
+    weight: 3

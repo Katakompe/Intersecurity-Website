@@ -6,30 +6,54 @@
 .intro-image-absolute {
   max-width: none;
 
-  padding: 0;
+  padding: 0px;
   margin-bottom: 30px;
   @include media-breakpoint-up(sm) {
   }
   @include media-breakpoint-up(md) {
     position: absolute;
-    bottom: -50px;
-    left: -50px;
-    width: 700px;
+    bottom: -0px;
+    left: -0px;
+    width: 400px;
   }
   @include media-breakpoint-up(lg) {
-    bottom: -60px;
-    left: -60px;
-    width: 800px;
+    bottom: -0px;
+    left: -0px;
+    width: 500px;
   }
   @include media-breakpoint-up(xl) {
     bottom: -100px;
-    left: -70px;
-    width: 850px;
+    left: -0px;
+    width: 650px;
   }
 }
 .intro-image-hide-mobile {
   display: none;
   @include media-breakpoint-up(md) {
     display: block;
+  }
+}
+.service-image-absolute {
+  max-width: none;
+
+  padding: 0px;
+  margin-bottom: 30px;
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(md) {
+    position: absolute;
+    bottom: -100px;
+    left: -50px;
+    width: 450px;
+  }
+  @include media-breakpoint-up(lg) {
+    bottom: -200px;
+    left: -60px;
+    width: 600px;
+  }
+  @include media-breakpoint-up(xl) {
+    bottom: -260px;
+    left: -70px;
+    width: 650px;
   }
 }

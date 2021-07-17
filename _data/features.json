@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Kostenlose Erstberatung",
+    "description": "Wir hören uns Ihr Problem an und erörtern gemeinsam ein weiteres Vorgehen.",
+    "image": "images/features/consultation.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Bestens Ausgebildete Mitarbeiter",
+    "description": "Unser Team zeichnet sich durch jahrelange Erfahrung im Polizei- und Security-Bereich aus.",
+    "image": "images/features/experience.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Diskretion",
+    "description": "Wir behandeln Ihr Anliegen mit höchster Professionalität und Diskretion.",
+    "image": "images/features/confidential.svg"
   }
 ]

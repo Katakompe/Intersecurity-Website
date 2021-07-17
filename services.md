@@ -1,11 +1,13 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/services-inv.jpg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Unsere Services
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Wir bieten eine Reihe von Dienstleistungen im Sicherheits- und Detektei-Bereich an. 
+
+Lorem Ipsum..... textus maximus. 

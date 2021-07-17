@@ -5,10 +5,9 @@ layout: page
 bodyClass: page-about
 ---
 
-Wir bieten Expertisee in allen relevanten Sicherheitsfragen. 25 Jahre Erfahrung im Polizeidienst erlauben uns Ihnen höchste Qualität zu bieten. Unsere Mitarbeiter sind bestens ausgebildet, sich um all Ihre Anliegen zu kümmern. 
+Wir bieten Expertise in allen relevanten Sicherheitsfragen. 25 Jahre Erfahrung im Polizeidienst erlauben uns Ihnen höchste Qualität zu bieten. Unsere Mitarbeiter sind bestens ausgebildet, sich um all Ihre Anliegen zu kümmern. 
 
 ## Dr. Arnulf Komposch
-
 
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.

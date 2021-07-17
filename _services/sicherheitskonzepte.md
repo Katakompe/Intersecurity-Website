@@ -6,6 +6,8 @@ weight: 4
 layout: service
 ---
 
+![Türverriegelung](../../images/close-up-uses-intercom.jpg)
+
 Wir beurteilen Ihre Gefahren- und Risikolagen und entwickeln Sicherheitskonzepte die speziell auf Ihre Bedürfnisse abgestimmt sind. 
 
 

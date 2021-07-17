@@ -6,6 +6,8 @@ weight: 3
 layout: service
 ---
 
+![Überwachung](../../images/camera-hands.jpg)
+
 Wir überwachen Zielpersonen zuverlässig und diskret.
 
 
