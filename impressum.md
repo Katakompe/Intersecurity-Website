@@ -4,13 +4,7 @@ layout: page
 bodyClass: page
 ---
 
-Intersecurity-Komposch
-
-Mehr Impressumsdaten folgen hier!
-
-
-
-## Image Attributions
+## Bildernachweis
 
 
 <a href="https://www.freepik.com/photos/computer">Computer photo created by pressfoto - www.freepik.com</a>
