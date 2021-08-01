@@ -8,7 +8,7 @@ layout: service
 
 ![Türverriegelung](../../images/close-up-uses-intercom.jpg)
 
-Wir beurteilen Ihre Gefahren- und Risikolagen und entwickeln Sicherheitskonzepte die speziell auf Ihre Bedürfnisse abgestimmt sind. 
+Wir beurteilen Ihre Gefahren- und Risikolage und entwickeln ein Sicherheitskonzept, das speziell auf Ihre Bedürfnisse zugeschnitten ist, z.B. elektronische oder mechanische Zugangsbeschränkungen. Wir bieten bereits in der Planungsphase die Ausarbeitung von Sicherheitskonzepten für Hotels, Industrieobjekte, aber auch für private Immobilien an.
 
 
 ## Ne verba patulosque numen vix libet

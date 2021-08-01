@@ -10,4 +10,3 @@ intro_image_hide_on_mobile: true
 
 Wir bieten eine Reihe von Dienstleistungen im Sicherheits- und Detektei-Bereich an. 
 
-Lorem Ipsum..... textus maximus. 

@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: true
 # Intersecurity-Komposch
 
 
-Wir bieten Sicherheitslösungen für Unternehmen und Privat. 
+Wir bieten Sicherheitslösungen für Unternehmen und Privat, gestützt durch 25-jährige kriminalpolizeiliche Erfahrung
