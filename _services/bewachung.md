@@ -13,5 +13,5 @@ Wir bewachen Personen, Objekte und private Veranstaltungen. Benötigen sie seri�
 
 Sie wollen eine ungestörte Feier ohne ungeladene Gäste im privaten Bereich? (Zutrittskontrollen)
 Sie brauchen bewaffnete oder unbewaffnete Begleitung bei sensiblen Terminen?
-Sie brauchen die Bewachung während Ihrere Abwesenheit?
+Sie brauchen eine Bewachung während Ihrere Abwesenheit?
 Egal welcher der Punkte auf Sie zutrifft, wir haben die richtigen, bestens ausgebildeten Leute für Sie. 

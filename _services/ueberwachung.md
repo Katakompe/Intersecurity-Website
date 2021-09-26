@@ -13,6 +13,8 @@ Wir überwachen Zielpersonen zuverlässig und diskret, sowohl im privaten, als a
 Sie wollen wissen, ob Ihr Mitarbeiter wirklich krank oder auf Dienstreise ist? Ob Ihr Partner tatsächlich alleine auf Urlaub fährt? Sie benötigen Beweise im privaten Bereich? Sie wollen Gewissheit über Ihre Beziehung? 
 
 Wussten Sie: 
-    - dass bei Aufdeckung einer nicht gerechtfertigten Abwesenheit von der Arbeit die Kosten für die Aufdeckung auf den Verursacher überwälzt werden können? 
-    - dass die Kosten für die Überwachung bei einer Scheidung aus Verschulden eingeklagt werden können?
+
+- dass bei Aufdeckung einer nicht gerechtfertigten Abwesenheit von der Arbeit die Kosten für die Aufdeckung auf den Verursacher überwälzt werden können? 
+
+- dass die Kosten für die Überwachung bei einer Scheidung aus Verschulden eingeklagt werden können?
 
