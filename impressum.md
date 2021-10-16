@@ -75,7 +75,7 @@ Datenschutzerklärung ist wie folgt gegliedert:</p> <p>I. Informationen über un
 Nutzer und Betroffenen<br>III. Informationen zur Datenverarbeitung</p> <h3>I. Informationen über uns als
 Verantwortliche</h3> <p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne
 ist:</p> <p><span>Dr. Arnulf Komposch<br>Florianistraße 14<br>9585 Finkenstein am Faaker See<br>
-Deutschland</span></p> <p><span>Telefon: +43 660 7744522<br>E-Mail:
+Österreich</span></p> <p><span>Telefon: +43 660 7744522<br>E-Mail:
 office@intersecurity-komposch.at</span></p> <h3>II. Rechte der Nutzer und
 Betroffenen</h3> <p>Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und
 Betroffenen das Recht</p> <ul> <li>auf Bestätigung, ob sie betreffende Daten verarbeitet werden, auf Auskunft über die

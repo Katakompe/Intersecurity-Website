@@ -8,5 +8,5 @@ layout: service
 
 ![Nachforschung](../../images/laptop-man.jpg)
 
-Suchen Sie eine vermisste Person, einen unbekannten Erben oder bei einem unklaren Sachverahalt das Wo, Wann oder Wie?
+Suchen Sie eine vermisste Person, einen unbekannten Erben oder bei einem unklaren Sachverhalt das Wo, Wann oder Wie?
 Wir helfen Ihnen und können auf entsprechende Referenzen verweisen.
